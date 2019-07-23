@@ -1,0 +1,102 @@
+{
+    "status": 0,
+    "msg": "",
+    "result": [
+        {
+            "productId": "100001",
+            "productName": "mini6",
+            "productPrice": 50,
+            "productImg": "1.jpg"
+        },
+        {
+            "productId": "100002",
+            "productName": "iphone",
+            "productPrice": 447,
+            "productImg": "2.jpg"
+        },
+        {
+            "productId": "100003",
+            "productName": "suming",
+            "productPrice": 2299,
+            "productImg": "3.jpg"
+        },
+        {
+            "productId": "100004",
+            "productName": "knief",
+            "productPrice": 5400,
+            "productImg": "4.jpg"
+        },
+        {
+            "productId": "100005",
+            "productName": "ipad",
+            "productPrice": 627,
+            "productImg": "5.jpg"
+        },
+        {
+            "productId": "100006",
+            "productName": "vivo",
+            "productPrice": 177,
+            "productImg": "6.jpg"
+        },
+        {
+            "productId": "100007",
+            "productName": "Elige",
+            "productPrice": 700,
+            "productImg": "7.jpg"
+        },
+        {
+            "productId": "100008",
+            "productName": "SSG",
+            "productPrice": 1100,
+            "productImg": "8.jpg"
+        },
+        {
+            "productId": "10009",
+            "productName": "AWP",
+            "productPrice": 4750,
+            "productImg": "9.jpg"
+        },
+        {
+            "productId": "100010",
+            "productName": "P30",
+            "productPrice": 1207,
+            "productImg": "10.jpg"
+        },
+        {
+            "productId": "100011",
+            "productName": "OppO",
+            "productPrice": 2000,
+            "productImg": "11.jpg"
+        },
+        {
+            "productId": "100012",
+            "productName": "iwatch",
+            "productPrice": 233,
+            "productImg": "12.jpg"
+        },
+        {
+            "productId": "100013",
+            "productName": "Kindle",
+            "productPrice": 999,
+            "productImg": "13.jpg"
+        },
+        {
+            "productId": "100014",
+            "productName": "Mac",
+            "productPrice": 7977,
+            "productImg": "14.jpg"
+        },
+        {
+            "productId": "100015",
+            "productName": "Lisa",
+            "productPrice": 1777,
+            "productImg": "15.jpg"
+        },
+        {
+            "productId": "100016",
+            "productName": "airpods",
+            "productPrice": 1345,
+            "productImg": "16.jpg"
+        }
+    ]
+}
