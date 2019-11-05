@@ -17,7 +17,7 @@
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "mogoose": "^3.1.8",
-    "mongoose": "^5.6.4",
+    "mongoose": "^5.7.5",
     "morgan": "~1.9.1",
     "vue": "^2.6.10",
     "vue-infinite-scroll": "^2.0.2",
